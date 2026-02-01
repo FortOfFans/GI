@@ -38,6 +38,53 @@
       "timestamp": 1769929137
     }
   ],
+  "10000024": [
+    {
+      "name": "Beidou",
+      "version": "5.0",
+      "config": {
+        "role": "Main DPS",
+        "er": "",
+        "substats": "",
+        "ratio": "",
+        "em": "",
+        "sands": [],
+        "goblet": [],
+        "circlet": [],
+        "synergies5": [
+          10000082,
+          10000057,
+          10000107,
+          10000099,
+          10000046
+        ],
+        "synergies4": [
+          10000032
+        ]
+      },
+      "talent_priority": [
+        "0",
+        "1",
+        "3"
+      ],
+      "weapons": [],
+      "artifact_combos": [
+        [
+          15037,
+          15034
+        ],
+        [
+          15038
+        ],
+        [
+          15036
+        ]
+      ],
+      "id": "10000024",
+      "editor": "fortoffans",
+      "timestamp": 1769929512
+    }
+  ],
   "10000055": [
     {
       "name": "Gorou",
