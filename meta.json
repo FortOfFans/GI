@@ -123,5 +123,53 @@
       "editor": "fortoffans",
       "timestamp": 1769929201
     }
+  ],
+  "10000078": [
+    {
+      "name": "Alhaitham",
+      "version": "5.0",
+      "config": {
+        "role": "Main DPS",
+        "er": "",
+        "substats": "",
+        "ratio": "",
+        "em": "",
+        "sands": [],
+        "goblet": [],
+        "circlet": [],
+        "synergies5": [
+          10000062,
+          10000101,
+          10000046,
+          10000066,
+          10000089
+        ],
+        "synergies4": [
+          10000024
+        ]
+      },
+      "talent_priority": [
+        "0",
+        "1",
+        "3"
+      ],
+      "weapons": [],
+      "artifact_combos": [
+        [
+          15040,
+          15037
+        ],
+        [
+          15032
+        ],
+        [
+          15037,
+          15040
+        ]
+      ],
+      "id": "10000078",
+      "editor": "fortoffans",
+      "timestamp": 1769929660
+    }
   ]
 }
