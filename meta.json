@@ -1,1 +1,41 @@
-{}
+{
+  "10000002": [
+    {
+      "name": "Kamisato Ayaka",
+      "version": "5.0",
+      "config": {
+        "role": "Main DPS",
+        "er": "",
+        "substats": "Crit > ATK% > EM",
+        "ratio": "1:2 (70CR : 140CDMG)",
+        "em": "100 - 200",
+        "sands": [
+          "ATK%"
+        ],
+        "goblet": [
+          "Pyro DMG Bonus"
+        ],
+        "circlet": [
+          "Crit Rate",
+          "Crit DMG"
+        ],
+        "synergies5": [],
+        "synergies4": []
+      },
+      "talent_priority": [
+        "0",
+        "1",
+        "2"
+      ],
+      "weapons": [],
+      "artifact_combos": [
+        [],
+        [],
+        []
+      ],
+      "id": "10000002",
+      "editor": "fortoffans",
+      "timestamp": 1769929137
+    }
+  ]
+}
