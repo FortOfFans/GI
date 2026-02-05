@@ -2,7 +2,7 @@
   "10000126": [
     {
       "name": "Zibai",
-      "version": "5.0",
+      "version": "6.3",
       "config": {
         "role": "Main DPS",
         "er": "140-200%",
@@ -38,9 +38,9 @@
         ]
       },
       "talent_priority": [
+        "0",
         "1",
-        "3",
-        "0"
+        "2"
       ],
       "weapons": [
         11519,
@@ -64,7 +64,7 @@
       ],
       "id": "10000126",
       "editor": "fortoffans",
-      "timestamp": 1770273148
+      "timestamp": 1770288433
     }
   ]
 }
