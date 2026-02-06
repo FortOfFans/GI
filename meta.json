@@ -544,6 +544,70 @@
       "timestamp": 1770294535
     }
   ],
+  "10000099": [
+    {
+      "name": "Emilie",
+      "version": "5.0",
+      "config": {
+        "role": "Sub DPS",
+        "er": "100-140%",
+        "substats": "CRIT > ATK% > ER",
+        "ratio": "1:2 (70CR : 140CDMG)",
+        "em": "",
+        "sands": [
+          "ATK%"
+        ],
+        "goblet": [
+          "Dendro DMG Bonus",
+          "ATK%"
+        ],
+        "circlet": [
+          "Crit DMG / Rate"
+        ],
+        "synergies5": [
+          10000096,
+          10000106,
+          10000101,
+          10000073,
+          10000123,
+          10000086,
+          10000037,
+          10000102
+        ],
+        "synergies4": [
+          10000032,
+          10000050,
+          10000023
+        ]
+      },
+      "talent_priority": [
+        "3",
+        "1",
+        "0"
+      ],
+      "weapons": [
+        13513,
+        13507,
+        13501,
+        13405,
+        13407,
+        13419
+      ],
+      "artifact_combos": [
+        [
+          15036,
+          15025
+        ],
+        [],
+        [
+          15032
+        ]
+      ],
+      "id": "10000099",
+      "editor": "mango_8659",
+      "timestamp": 1770347554
+    }
+  ],
   "10000104": [
     {
       "name": "Chasca",
