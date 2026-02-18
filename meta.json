@@ -266,6 +266,73 @@
       "timestamp": 1770297208
     }
   ],
+  "10000063": [
+    {
+      "name": "Shenhe",
+      "version": "6.3",
+      "config": {
+        "role": "Support",
+        "er": "180%+",
+        "substats": "ER% > ATK% > Crit. Rate.",
+        "ratio": "30+:50 (for Favonius)",
+        "em": "",
+        "sands": [
+          "ATK%",
+          "ER%"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "circlet": [
+          "ATK%",
+          "Crit Rate"
+        ],
+        "synergies5": [
+          10000002,
+          10000037,
+          10000114,
+          10000112,
+          10000086,
+          10000104,
+          10000047,
+          10000041
+        ],
+        "synergies4": [
+          10000036,
+          10000045,
+          10000085
+        ]
+      },
+      "talent_priority": [
+        "1",
+        "3",
+        "0"
+      ],
+      "weapons": [
+        13507,
+        13509,
+        13502,
+        13504,
+        13407,
+        13416
+      ],
+      "artifact_combos": [
+        [
+          15001,
+          15019
+        ],
+        [
+          15007
+        ],
+        [
+          10009
+        ]
+      ],
+      "id": "10000063",
+      "editor": "kinder.u",
+      "timestamp": 1771429102
+    }
+  ],
   "10000069": [
     {
       "name": "Tighnari",
