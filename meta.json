@@ -815,6 +815,73 @@
       "timestamp": 1770293845
     }
   ],
+  "10000114": [
+    {
+      "name": "Skirk",
+      "version": "6.3",
+      "config": {
+        "role": "Main DPS",
+        "er": "0",
+        "substats": "Crit. Rate > Crit. DMG > ATK%",
+        "ratio": "1:2 (70CR : 140CDMG)",
+        "em": "",
+        "sands": [
+          "ATK%"
+        ],
+        "goblet": [
+          "Cryo DMG Bonus"
+        ],
+        "circlet": [
+          "Crit DMG / Rate"
+        ],
+        "synergies5": [
+          10000112,
+          10000089,
+          10000060,
+          10000063,
+          10000107,
+          10000041
+        ],
+        "synergies4": [
+          10000074,
+          10000045,
+          10000072,
+          10000039,
+          10000115,
+          10000088,
+          10000036,
+          10000025
+        ]
+      },
+      "talent_priority": [
+        "1",
+        "3",
+        "0"
+      ],
+      "weapons": [
+        11517,
+        11510,
+        11509,
+        11505,
+        11409,
+        11432
+      ],
+      "artifact_combos": [
+        [
+          15040
+        ],
+        [
+          15031
+        ],
+        [
+          15001
+        ]
+      ],
+      "id": "10000114",
+      "editor": "kinder.u",
+      "timestamp": 1771418959
+    }
+  ],
   "10000116": [
     {
       "name": "Ineffa",
