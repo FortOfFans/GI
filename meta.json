@@ -1360,6 +1360,72 @@
       "timestamp": 1770294987
     }
   ],
+  "10000124": [
+    {
+      "name": "Jahoda",
+      "version": "6.3",
+      "config": {
+        "role": "Support",
+        "er": "160%+",
+        "substats": "ER% > ATK% > Crit. Rate. > EM ",
+        "ratio": "30+:50 (for Favonius)",
+        "em": "100 - 200",
+        "sands": [
+          "ER%",
+          "ATK%"
+        ],
+        "goblet": [
+          "ATK%"
+        ],
+        "circlet": [
+          "ATK%",
+          "HB%",
+          "Crit Rate"
+        ],
+        "synergies5": [
+          10000122,
+          10000119,
+          10000116,
+          10000120,
+          10000123,
+          10000096,
+          10000087,
+          10000098
+        ],
+        "synergies4": [
+          10000121,
+          10000032,
+          10000023,
+          10000031
+        ]
+      },
+      "talent_priority": [
+        "3",
+        "1",
+        "0"
+      ],
+      "weapons": [
+        15503,
+        15434,
+        15401,
+        15427
+      ],
+      "artifact_combos": [
+        [
+          15002
+        ],
+        [
+          15042
+        ],
+        [
+          10007
+        ]
+      ],
+      "id": "10000124",
+      "editor": "kinder.u",
+      "timestamp": 1771598854
+    }
+  ],
   "10000125": [
     {
       "name": "Columbina",
