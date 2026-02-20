@@ -882,6 +882,76 @@
       "timestamp": 1770293845
     }
   ],
+  "10000112": [
+    {
+      "name": "Escoffier",
+      "version": "6.3",
+      "config": {
+        "role": "Support",
+        "er": "150%+",
+        "substats": "ER% > Crit. Rate > Crit. DMG > ATK%",
+        "ratio": "1:2 (70CR : 140CDMG)",
+        "em": "",
+        "sands": [
+          "ATK%",
+          "ER%"
+        ],
+        "goblet": [
+          "ATK%",
+          "Cryo DMG Bonus"
+        ],
+        "circlet": [
+          "Crit DMG / Rate",
+          "ATK%"
+        ],
+        "synergies5": [
+          10000114,
+          10000087,
+          10000086,
+          10000002,
+          10000037,
+          10000107,
+          10000063,
+          10000060
+        ],
+        "synergies4": [
+          10000036,
+          10000015,
+          10000025,
+          10000085,
+          10000115,
+          10000045
+        ]
+      },
+      "talent_priority": [
+        "1",
+        "3",
+        "0"
+      ],
+      "weapons": [
+        13514,
+        13507,
+        13434,
+        13407,
+        13509,
+        13432
+      ],
+      "artifact_combos": [
+        [
+          15032
+        ],
+        [
+          15007
+        ],
+        [
+          10009
+        ]
+      ],
+      "id": "10000112",
+      "editor": "kinder.u",
+      "timestamp": 1771598303
+    }
+  ],
   "10000114": [
     {
       "name": "Skirk",
