@@ -142,6 +142,7 @@
     "10000057_Main DPS.jpg"
   ],
   "10000058": [
+    "10000058_Stellar DPS.png",
     "10000058_Sub DPS.jpg"
   ],
   "10000059": [
@@ -377,9 +378,20 @@
   "10000132": [
     "10000132_Prune.jpg"
   ],
+  "10000133": [
+    "10000133_Stellar DPS.jpg"
+  ],
+  "10000148": [
+    "10000148_Stellar Support.jpg",
+    "10000148_Stellar_Support.jpg"
+  ],
+  "10000150": [
+    "10000150_Odette_Stellar_Support.jpg"
+  ],
   "10000005-pyro": [],
   "10000005-hydro": [],
   "10000005-anemo": [],
+  "10000005-cryo": [],
   "10000005-geo": [],
   "10000005-electro": [],
   "10000005-dendro": [],
@@ -390,6 +402,7 @@
   "10000007-anemo": [
     "10000007-anemo_Support.jpg"
   ],
+  "10000007-cryo": [],
   "10000007-geo": [
     "10000007-geo_Sub DPS.jpg"
   ],
