@@ -469,6 +469,72 @@
       "timestamp": 1770296423
     }
   ],
+  "10000071": [
+    {
+      "name": "Cyno",
+      "version": "7.0",
+      "config": {
+        "role": "Main DPS",
+        "er": "120-140%",
+        "substats": "ER% > Crit > ATK% > EM",
+        "ratio": "1:2 (70CR : 140CDMG)",
+        "em": "600 - 800",
+        "sands": [
+          "ATK%",
+          "EM"
+        ],
+        "goblet": [
+          "ATK%",
+          "EM"
+        ],
+        "circlet": [
+          "Crit Rate",
+          "Crit DMG"
+        ],
+        "synergies5": [
+          10000150,
+          10000058,
+          10000035,
+          10000131
+        ],
+        "synergies4": [
+          10000024,
+          10000031,
+          10000148,
+          10000039,
+          10000043
+        ]
+      },
+      "talent_priority": [
+        "3",
+        "1",
+        "0"
+      ],
+      "weapons": [
+        13511,
+        13424,
+        13505,
+        13501,
+        13405,
+        13434
+      ],
+      "artifact_combos": [
+        [
+          15046
+        ],
+        [
+          15026
+        ],
+        [
+          15026,
+          15003
+        ]
+      ],
+      "id": "10000071",
+      "editor": "iuhence",
+      "timestamp": 1788276765
+    }
+  ],
   "10000078": [
     {
       "name": "Alhaitham",
